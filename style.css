@@ -351,7 +351,7 @@ img{
   float: left;
   width: 100%;
   padding: 80px 0px;
-  background-image: url('http://www.pngmart.com/files/3/Star-PNG-Pic.png');
+  background-image: url('img/bg-02.jpg');
 }
 .about_area{
 	float: left;
@@ -513,7 +513,7 @@ div[data-dimension] {
   float: left;
   padding: 80px 0 70px;
   width: 100%;
-  background-image: url('https://pre00.deviantart.net/1adb/th/pre/f/2016/202/c/9/_transparent__cyan_stars_free_background1920_1080__by_adamantis_am-daaw2qu.png');
+  background-image: url('img/bg-02.jpg');
 }
 .service_area{
 	float: left;
@@ -856,7 +856,7 @@ div[data-dimension] {
 	width: 100%;
 	padding: 80px 0px;
   background: linear-gradient(lightblue, white);
-  background-image: url("http://www.pngmart.com/files/3/Star-PNG-Pic.png");
+  background-image: url("img/bg-02.jpg");
 }
 .blog_content {
   display: inline;
