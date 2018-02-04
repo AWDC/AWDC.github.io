@@ -714,6 +714,7 @@ div[data-dimension] {
   height: 150px;
   margin: 0 auto 15px;
   width: 150px;
+  transition: all 0.5s;
 }
 .single_team h5 {
   color: #555;
@@ -1492,6 +1493,6 @@ textarea .form-control {
 	.slider_caption {margin-top: 34%;}  
 	
 }
-.single_team : hover{
-  transform: scale(1.4);
+.team_img :hover { 
+  transform: scale(1.2); 
 }
