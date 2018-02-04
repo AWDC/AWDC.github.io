@@ -1492,3 +1492,9 @@ textarea .form-control {
 	.slider_caption {margin-top: 34%;}  
 	
 }
+.eventImg{
+  transition: all 0.5s;
+}
+.eventImg: hover{
+  transform: scale3d(1, 1, 1);
+}
