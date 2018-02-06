@@ -330,6 +330,18 @@ img{
 .slider_caption>a{		
 	margin-top: 30px;	
 }
+.exploreGallery {
+  padding: 0 13%;
+  text-align: center;
+  z-index: 999;
+}
+.exploreGallery > a{
+  padding: 1% 2%;
+  position: relative;
+  text-align: center;
+  margin-top: 5%;
+  z-index: 999;
+}
 .slider_btn{
 	padding: 10px 15px;
 	border: 2px solid #fff;
@@ -1452,6 +1464,7 @@ textarea .form-control {
 	.slider_caption > h2 { font-size: 20px;line-height: 22px;margin-bottom: 0px;}
 	.slider_caption > p {font-size: 14px;}
 	.slider_caption > a { font-size: 15px; margin-top: 20px;  padding: 8px 10px;}
+  .exploreGallery > a { font-size: 15px; margin-top: 0px;  padding: 8px 10px;}
 	.wagwep-container ul#portfolio-filter li {width: auto;}
 	.wagwep-container ul#portfolio-filter a {font-size: 10px;margin: 0 0 2px;padding: 5px;text-align: center;text-indent: 0;}
 	.blog_slider .slick-prev {left: 81.5%;} 
@@ -1470,6 +1483,7 @@ textarea .form-control {
 @media(max-width:360px ){
 	.slider_caption {margin-top: 28%;}
 	.slider_caption > a {margin-top: 10px;}
+  .exploreGallery > a { margin-top: 50px;}
 	.slides-navigation h3 {display: none;}
 	.slider_caption > h2 {font-size: 18px;line-height: 20px;}
 	.panel-title {font-size: 17px;}
@@ -1486,7 +1500,6 @@ textarea .form-control {
 	.heading h2 { font-size: 25px;line-height: 30px;}
 	.single_service > .service_title:after {left: 32%;}
 	.slides-navigation {display: none;}
-	
 }
 
 @media(max-width:320px ){
@@ -1495,7 +1508,7 @@ textarea .form-control {
 	.blog_slider .slick-prev {left: 70.5%;}
 	.subscr_btn {font-size: 11px;}
 	.slider_caption {margin-top: 34%;}  
-	
+  .exploreGallery > a { margin-top: 50px;}
 }
 .team_img :hover { 
   transform: scale(1.1); 
