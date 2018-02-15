@@ -1,27 +1,3 @@
-/**	
-	* SinglePro HTML 1.0	
-	* Template Scripts
-	* Created by WpFreeware Team
-
-	Custom JS
-	
-	1. Superslides Slider
-	2. Fixed Top Menubar
-	3. Featured Slider
-	4. Skill Circle
-	5. Wow animation
-	6. Project Counter
-	7. TEAM SLIDER
-	8. BLOG SLIDER
-	9. TESTIMONIAL SLIDER
-	10. CLIENTS SLIDER
-	11. Google Map
-	12. SCROLL TOP BUTTON
-	13. PRELOADER 
-	14. MENU SCROLL 
-	15. MOBILE MENU CLOSE 	
-	
-**/
 
 jQuery(function($){
 
@@ -355,13 +331,13 @@ jQuery(function($){
 	/*  11. Google Map
 	/* ----------------------------------------------------------- */
 
-	  var zoom= $('#map_canvas').gmap('option', 'zoom');
+	 /* var zoom= $('#map_canvas').gmap('option', 'zoom');
       
       $('#map_canvas').gmap().bind('init', function(ev, map) {
         $('#map_canvas').gmap('addMarker', {'position': '57.7973433,12.0502107', 'bounds': true});
         $('#map_canvas').gmap('option', 'zoom', 13);
       });
-
+*/
 
 	/* ----------------------------------------------------------- */
 	/*  12. SCROLL TOP BUTTON

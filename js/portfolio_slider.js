@@ -1,3 +1,4 @@
+/*
 $(function(){
 $("#elastic_grid_demo").elastic_grid({	
 	'hoverDirection': true,
@@ -204,4 +205,4 @@ $("#elastic_grid_demo").elastic_grid({
 	 
 		]
 	});
-});
+});*/
